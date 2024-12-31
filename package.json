@@ -1,7 +1,7 @@
 {
-  "name": "@bobbydra13/tutorial",
+  "name": "@BobbyDra13/tutorial",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A tutorial on how to deploy react NPM package with github",
   "type": "module",
   "publishConfig": {
@@ -19,6 +19,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@BobbyDra13/tutorial": "npm:@bobbydra13/tutorial@^1.0.2",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",
     "react": "^18.3.1",
