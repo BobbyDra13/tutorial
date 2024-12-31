@@ -1,5 +1,5 @@
 {
-  "name": "package",
+  "name": "@bobbydra13/tutorial",
   "private": false,
   "version": "1.0.2",
   "description": "A tutorial on how to deploy react NPM package with github",
