@@ -1,0 +1,27 @@
+.main-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.main-container h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.main-container p {
+  margin: 5px 0;
+  font-size: 16px;
+  color: #555;
+}
+
+.main-container .place {
+  font-style: italic;
+  color: #888;
+}
